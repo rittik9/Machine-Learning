@@ -1,2 +1,3 @@
 # Machine-Learning
-Assignments and projects of ML
+Assignments of ML Course
+
